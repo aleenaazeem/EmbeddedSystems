@@ -20,8 +20,11 @@ once.
 
 _**OUTPUTS:**_
 **Output1:**
+
 ![image](https://user-images.githubusercontent.com/99934126/200687726-e3864ca1-7881-4eb9-809b-def10d1feaf7.png)
+
 **Output2:**
+
 ![image](https://user-images.githubusercontent.com/99934126/200687746-3e9dfac6-26f9-407a-959f-e4f9efebf270.png)
 
 Working Hardware:
